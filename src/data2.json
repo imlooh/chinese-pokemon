@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "name": "Bulbasaur",
+        "chineseTraditional": "妙蛙種子",
+        "chineseSimplified": "妙蛙种子",
+        "pinyin": "Miàowāzhǒngzǐ",
+        "jyutping": "Miuhwājúngjí",
+        "other": "奇異種子 Kèihyihjúngjí (HK)",
+        "data": "<p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent</li><li>蛙 (wā): frog </li><li>種子 (zhǒngzǐ): seed </li></ul><p><b>Translation</b>: 'Wonderful Frog Seed' or 'Magical Frog Seed'. The first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur.</p>"
+    },
+    {
+        "id": "002",
+        "name": "Ivysaur",
+        "chineseTraditional": "妙蛙草",
+        "chineseSimplified": "妙蛙草",
+        "pinyin": "Miàowācǎo",
+        "jyutping": "Miuhwāchóu",
+        "other": "奇異草 Kèihyihchóu (HK)",
+        "data": "<p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent </li><li>蛙 (wā): frog </li><li>草 (cǎo): grass </li></ul><p><b>Translation</b>: 'Wonderful Frog Grass' or 'Magical Frog Grass'. Although this Ivysaur, the first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur, its base evolution.</p>"
+    },
+    {
+        "id": "003",
+        "name": "Venusaur",
+        "chineseTraditional": "妙蛙花",
+        "chineseSimplified": "妙蛙花",
+        "pinyin": "Miàowāhuā",
+        "jyutping": "Miuhwāfā",
+        "other": "奇異花 Kèihyihfā (HK)",
+        "data": "<p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent </li><li>蛙 (wā): frog </li><li>花 (huā): flower</li></ul><p><b>Translation</b>: 'Wonderful Frog Flower' or 'Magical Frog Flower'. Although this is Venusaur, the first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur, its base evolution." 
+    },
+    {
+        "id": "004",
+        "name": "Charmander",
+        "chineseTraditional": "小火龍",
+        "chineseSimplified": "小火龙",
+        "pinyin": "Xiǎohuǒlóng",
+        "jyutping": "Síufólùhng",
+        "other": "",
+        "data": "<p><b>Breakdown</b></p><ul><li>小 (xiǎo): small, little</li><li>火 (huǒ): fire</li><li>龍 (lóng): dragon</li></ul><p><b>Translation</b>: 'Little Fire Dragon'</p>"
+    },
+    {
+        "id": "005",
+        "name": "Charmeleon",
+        "chineseTraditional": "火恐龍",
+        "chineseSimplified": "火恐龙",
+        "pinyin": "Huǒkǒnglóng",
+        "jyutping": "Fóhúnglùhng",
+        "other": "",
+        "data": "<p><b>Breakdown</b></p><ul><li>火 (huǒ): fire</li><li>恐龍 (kǒnglóng): dinosaur (恐 (kǒng) means fearsome or frightening, 龍 (lóng) means dragon)</li></ul><p><b>Translation</b>: 'Fire Dinosaur' or 'Fearsome Fire Dragon'</p>"
+    },
+    {
+        "id": "006",
+        "name": "Charizard",
+        "chineseTraditional": "噴火龍",
+        "chineseSimplified": "喷火龙",
+        "pinyin": "Pēnhuǒlóng",
+        "jyutping": "Panfólùhng",
+        "other": "",
+        "data": "<p><b>Breakdown</b></p><ul><li>噴 (pēn): spray, spout</li><li>火 (huǒ): fire</li><li>龍 (lóng): dragon</li></ul><p><b>Translation</b>: 'Spouting Fire Dragon' &rarr; 'Fire-breathing Dragon'"
+    }
+]
