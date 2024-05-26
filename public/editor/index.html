@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="scripts.js"></script>
+        <style>
+        label {
+            width: 150px;
+            float: left;
+        }
+
+        input {
+            width: 350px;
+            float:right;
+            line-height: 30px;
+        }
+
+        button {
+            clear: both;
+            display: block;
+        }
+
+        textarea {
+            margin-top:30px;
+            width:500px;
+            height: 150px;
+        }
+
+        </style>
+    </head>
+    <body style='width: 500px; margin: 0 auto;'>
+        <h1>Pokemon Editor</h1>
+        <p>Add new Pokemon to data2.json.</p>
+
+        <label for="ID">ID</label><input id="id"><br />
+        <label for="name">Name</label><input id="name"><br />
+        <label for="chineseTraditional">Trad</label><input id="chineseTraditional"><br />
+        <label for="chineseSimplified">Simp</label><input id="chineseSimplified"><br />
+        <label for="pinyin">Pinyin</label><input id="pinyin"><br />
+        <label for="jyutping">Jyutping</label><input id="jyutping"><br />
+        <label for="japanese">Japanese</label> <input id="japanese"><br />
+        <label for="other">Other</label><input id="other"><br />
+        <textarea id="data"></textarea>
+
+        <button id="add">Add To data2.json</button> <button id="clear">Clear</button>
+
+        <textarea id="output"></textarea>
+    </body>
+<html>

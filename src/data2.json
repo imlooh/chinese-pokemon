@@ -7,7 +7,8 @@
         "pinyin": "Miàowāzhǒngzǐ",
         "jyutping": "Miuhwājúngjí",
         "other": "奇異種子 Kèihyihjúngjí (HK)",
-        "data": "<p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent</li><li>蛙 (wā): frog </li><li>種子 (zhǒngzǐ): seed </li></ul><p><b>Translation</b>: 'Wonderful Frog Seed' or 'Magical Frog Seed'. The first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur.</p>"
+        "japanese": "フシギダネ",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b><li>不思議 (fushigi): mystery</li><li>だね (dane): isn't it? / 種 (-dane): seed</li></ul><p><b>Translation</b>: The play on words is 'mysterious, isn't it?' and 'mysterious seed'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent</li><li>蛙 (wā): frog </li><li>種子 (zhǒngzǐ): seed </li></ul><p><b>Translation</b>: 'Wonderful Frog Seed' or 'Magical Frog Seed'. The first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur.</p>"
     },
     {
         "id": "002",
@@ -17,7 +18,8 @@
         "pinyin": "Miàowācǎo",
         "jyutping": "Miuhwāchóu",
         "other": "奇異草 Kèihyihchóu (HK)",
-        "data": "<p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent </li><li>蛙 (wā): frog </li><li>草 (cǎo): grass </li></ul><p><b>Translation</b>: 'Wonderful Frog Grass' or 'Magical Frog Grass'. Although this Ivysaur, the first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur, its base evolution.</p>"
+        "japanese": "フシギソウ",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b> <ul><li>不思議 (fushigi): mystery</li><li>草 (sou): grass / そう (sou): a suffix meaning 'it seems'</li></ul><p><b>Translation</b>: 'Seems mysterious' or 'mystery grass'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent </li><li>蛙 (wā): frog </li><li>草 (cǎo): grass </li></ul><p><b>Translation</b>: 'Wonderful Frog Grass' or 'Magical Frog Grass'. Although this Ivysaur, the first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur, its base evolution.</p>"
     },
     {
         "id": "003",
@@ -27,7 +29,8 @@
         "pinyin": "Miàowāhuā",
         "jyutping": "Miuhwāfā",
         "other": "奇異花 Kèihyihfā (HK)",
-        "data": "<p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent </li><li>蛙 (wā): frog </li><li>花 (huā): flower</li></ul><p><b>Translation</b>: 'Wonderful Frog Flower' or 'Magical Frog Flower'. Although this is Venusaur, the first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur, its base evolution." 
+        "japanese": "フシギバナ",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b> <ul><li>不思議 (fushigi): mystery</li><li>花 (-bana): flower</li></ul><p><b>Translation</b>: 'Mystery Flower'</p><hr><p><b>Breakdown</b></p><ul><li>妙 (miào): wonderful, excellent </li><li>蛙 (wā): frog </li><li>花 (huā): flower</li></ul><p><b>Translation</b>: 'Wonderful Frog Flower' or 'Magical Frog Flower'. Although this is Venusaur, the first two characters may also be phonetic, imitating the 'bulba-' part of Bulbasaur, its base evolution." 
     },
     {
         "id": "004",
@@ -37,7 +40,8 @@
         "pinyin": "Xiǎohuǒlóng",
         "jyutping": "Síufólùhng",
         "other": "",
-        "data": "<p><b>Breakdown</b></p><ul><li>小 (xiǎo): small, little</li><li>火 (huǒ): fire</li><li>龍 (lóng): dragon</li></ul><p><b>Translation</b>: 'Little Fire Dragon'</p>"
+        "japanese": "ヒトカゲ ",
+        "data": "<h3>Japanese</h3><p>From 火 (hi): fire + 蜥蜴 (tokage): lizard &rarr; 火蜥蜴 (hitokage): salamander</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>小 (xiǎo): small, little</li><li>火 (huǒ): fire</li><li>龍 (lóng): dragon</li></ul><p><b>Translation</b>: 'Little Fire Dragon'</p>"
     },
     {
         "id": "005",
@@ -47,7 +51,8 @@
         "pinyin": "Huǒkǒnglóng",
         "jyutping": "Fóhúnglùhng",
         "other": "",
-        "data": "<p><b>Breakdown</b></p><ul><li>火 (huǒ): fire</li><li>恐龍 (kǒnglóng): dinosaur (恐 (kǒng) means fearsome or frightening, 龍 (lóng) means dragon)</li></ul><p><b>Translation</b>: 'Fire Dinosaur' or 'Fearsome Fire Dragon'</p>"
+        "japanese": "リザード",
+        "data": "<h3>Japanese</h3><p>リザード (rizaado): from English 'lizard'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>火 (huǒ): fire</li><li>恐龍 (kǒnglóng): dinosaur (恐 (kǒng) means fearsome or frightening, 龍 (lóng) means dragon)</li></ul><p><b>Translation</b>: 'Fire Dinosaur' or 'Fearsome Fire Dragon'</p>"
     },
     {
         "id": "006",
@@ -57,6 +62,95 @@
         "pinyin": "Pēnhuǒlóng",
         "jyutping": "Panfólùhng",
         "other": "",
-        "data": "<p><b>Breakdown</b></p><ul><li>噴 (pēn): spray, spout</li><li>火 (huǒ): fire</li><li>龍 (lóng): dragon</li></ul><p><b>Translation</b>: 'Spouting Fire Dragon' &rarr; 'Fire-breathing Dragon'"
+        "japanese": "リザードン",
+        "data": "<h3>Japanese</h3><p>リザードン (rizaadon): from English 'lizard' + Greek suffix -don often used for dinosaurs.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>噴 (pēn): spray, spout</li><li>火 (huǒ): fire</li><li>龍 (lóng): dragon</li></ul><p><b>Translation</b>: 'Spouting Fire Dragon' &rarr; 'Fire-breathing Dragon'"
+    },
+    {
+        "id": "007",
+        "name": "Squirtle",
+        "chineseTraditional": "傑尼龜",
+        "chineseSimplified": "杰尼龟",
+        "pinyin": "Jiéníguī",
+        "jyutping": "Gihtnèihgwāi",
+        "other": "車厘龜 Chēléigwāi (HK)",
+        "japanese": "ゼニガメ",
+        "data": "<h3>Japanese</h3><p>From 銭亀 <i>zenigame</i>, a type of baby spotted turtle.</p><hr><h3>Chinese</h3><p><b>Breakdown</b><p><ul><li>傑 (jié): phonetic component</li><li>尼 (ní): phonetic component</li><li>龜 (guī): turtle</li></ul><p><b>Translation</b>: The first two letters are actually a phonetic translation of the Japanese name, ゼニガメ <i>zenigame</i>. The word <i>zenigame</i> refers to a type of Japanese turtle. So, combined, it means 'zeni-turtle'.</p>"
+    },
+    {
+        "id": "008",
+        "name": "Wartortle",
+        "chineseTraditional": "卡咪龜",
+        "chineseSimplified": "卡咪龟",
+        "pinyin": "Kǎmīguī",
+        "jyutping": "Kāmāigwāi",
+        "other": "卡美龜 Kāméihgwāi (HK)",
+        "japanese": "カメール",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b></p><ul><li>カメ (kame): turtle</li><li>English 'tail'</li></ul><p><b>Translation</b>: Tur-tail</p><hr><h3>Chinese</h3><p><b>Breakdown</b><p><ul><li>卡 (kǎ): phonetic component</li><li>咪 (mī): phonetic component</li><li>龜 (guī): turtle</li></ul><p><b>Translation</b>: Phonetic-semantic compound meaning 'Kame-turtle'. The first two letters are a transliteration of the Japanese name カメール <i>kameeru</i>, which literally means 'tur-tail'. </p>"
+    },
+    {
+        "id": "009",
+        "name": "Blastoise",
+        "chineseTraditional": "水箭龜",
+        "chineseSimplified": "水箭龟",
+        "pinyin": "Shuǐjiànguī",
+        "jyutping": "Séuijingwāi",
+        "other": "",
+        "japanese": "カメックス",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b></p><ul><li>カメ (kame): turtle</li><li>English 'max'</li></ul><p><b>Translation</b>: Tur-max</p><hr><h3>Chinese</h3><p><b>Breakdown</b><p><ul><li>水 (shuǐ): water</li><li>箭 (jiàn): arrow</li><li>龜 (guī): turtle</li></ul><p><b>Translation</b>:  'Water Arrow Turtle'</p>"
+    },
+    {
+        "id": "010",
+        "name": "Caterpie",
+        "chineseTraditional": "綠毛蟲",
+        "chineseSimplified": "绿毛虫",
+        "pinyin": "Lǜmáochóng",
+        "jyutping": "Luhkmòuhchùhng",
+        "other": "",
+        "japanese": "キャタピー",
+        "data": "<h3>Japanese</h3><p>From キャタピラー <i>kyatapiraa</i> 'caterpillar'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b><p><ul><li>綠 (lǜ): green</li><li>毛 (máo): hair, fur + 蟲 (chóng): insect &rarr; 毛蟲: caterpillar</li></ul><p><b>Translation</b>:  'Green Furry Insect' or 'Green Caterpillar'</p>"
+    },
+    {
+        "id": "011",
+        "name": "Metapod",
+        "chineseTraditional": "鐵甲蛹",
+        "chineseSimplified": "铁甲蛹",
+        "pinyin": "Tiějiáyǒng",
+        "jyutping": "Titgaapyúng",
+        "japanese": "トランセル",
+        "other": "鐵甲蟲 Titgaapchùhng (HK)",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b></p><ul><li>トランスフォーム (toransufoomu) 'transform'</li><li>セル (seru) 'cell'</li></ul><p><b>Translation</b>: Trans-cell. Alternatively, a play on the word ランドセル <i>randoseru</i> 'school bag'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>鐵 (tiě): iron</li><li>甲 (jiǎ): armor</li><li>蛹 (yǒng): chrysalis</li></ul><p><b>Translation</b>: Iron Armored Chrysalis</p>"
+    },
+    {
+        "id": "012",
+        "name": "Butterfree",
+        "chineseTraditional": "巴大蝶",
+        "chineseSimplified": "巴大蝶",
+        "pinyin": "Bādàdié",
+        "jyutping": "Bādaaihdihp",
+        "other": "巴大蝴 Bādàhú (TW/CN), 巴他蝶 Bātādihp (HK)",
+        "japanese": "バターフリー",
+        "data": "<h3>Japanese</h3><p><b>Breakdown</b></p><ul><li>バタ (bata): from Japanese onomatopoeia パタパタ 'patapata' meaning 'flutter'</li><li>フリー (furii): 1. English 'free', 2. from 振り (furi) 'shake, wave' / 'appearance'</li></ul><p><b>Translation</b>: Could be derived from English 'butterfly' + 'free', or a combination of the Japanese terms above.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>巴 (bā): transliteration</li><li>大 (dà): big</li><li>蝶 (dié): butterfly</li></ul><p><b>Translation</b>: from Japanese バター and Chinese for 'butterfly'.</p>"
+    },
+    {
+        "id": "013",
+        "name": "Weedle",
+        "chineseTraditional": "獨角蟲",
+        "chineseSimplified": "独角虫",
+        "pinyin": "Dújiǎochóng",
+        "jyutping": "Duhkgokchùhng",
+        "other": "",
+        "japanese": "ビードル",
+        "data": "<h3>Japanese</h3><p>ビードル (biidoru): from ビー (bii)'bee' + ニードル (niidoru) 'needle'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>獨 (dú): single</li><li>角 (jiǎo): horn</li><li>蟲 (chóng): insect</li></ul><p><b>Translation</b>: Unicorn Insect</p>"
+    },
+    {
+        "id": "014",
+        "name": "Kakuna",
+        "chineseTraditional": "鐵殼蛹",
+        "chineseSimplified": "铁壳蛹",
+        "pinyin": "Tiěkéyǒng",
+        "jyutping": "Tithokyúng",
+        "other": "鐵殼昆 / 铁壳昆 Tiěkékūn (TW/CN)",
+        "japanese": "コクーン",
+        "data": "<h3>Japanese</h3><p>コクーン <i>kokuun</i> from English 'cocoon'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>鐵 (tiě): iron</li><li>殼 (kè): shell</li><li>昆 (kūn): insect</li></ul><p><b>Translation</b>: 'Iron Shelled Insect'. The last two characters are also partly coincidentally phonetic, sounding like English 'cocoon'.</p>"
     }
 ]

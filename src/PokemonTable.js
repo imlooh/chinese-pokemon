@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
+import data from './data2.json';
+var hepburn = require("hepburn");
 
 // Component to display the table
 const PokemonTable = () => {
-  let data = require('./data2.json');
   let [expand, setExpand] = useState(true);
   const [expandedRows, setExpandedRows] = useState({});
   const [searchQuery, setSearchQuery] = useState('');
@@ -32,7 +33,10 @@ const PokemonTable = () => {
     pokemon.chineseTraditional.toLowerCase().includes(searchQuery) ||
     pokemon.chineseSimplified.toLowerCase().includes(searchQuery) ||
     pokemon.pinyin.toLowerCase().includes(searchQuery)||
-    pokemon.jyutping.toLowerCase().includes(searchQuery)
+    pokemon.jyutping.toLowerCase().includes(searchQuery)||
+    
+    pokemon.japanese.toLowerCase().includes(searchQuery)||
+    hepburn.fromKana(pokemon.japanese).toLowerCase().includes(searchQuery)
   );
   
   return (
@@ -58,8 +62,7 @@ const PokemonTable = () => {
           <th scope="col">Name</th>
           <th scope="col">Traditional</th>
           <th scope="col">Simplified</th>
-          <th scope="col">Pinyin</th>
-          <th scope="col">Jyutping</th>
+          <th scope="col">Japanese</th>
         </tr>
       </thead>
       <tbody>
@@ -69,19 +72,18 @@ const PokemonTable = () => {
                 <td style={{textAlign: 'center'}}>{pokemon.id}</td>
                 <td style={{display: 'flex', 'justifyContent': 'space-around'}}><img src={'static/pokemon/' + pokemon.id + '.png'} alt={pokemon.name} /></td>
                 <td>{pokemon.name}</td>
-                <td>{pokemon.chineseTraditional}</td>
-                <td>{pokemon.chineseSimplified}</td>
-                <td>{pokemon.pinyin}</td>
-                <td>{pokemon.jyutping}</td>
+                <td className='underline' data-title={`Pinyin: ${pokemon.pinyin} | Jyutping: ${pokemon.jyutping}`}>{pokemon.chineseTraditional}</td>
+                <td className='underline' data-title={`Pinyin: ${pokemon.pinyin} | Jyutping: ${pokemon.jyutping}`}>{pokemon.chineseSimplified}</td>
+                <td className='underline' data-title={`${hepburn.fromKana(pokemon.japanese).toLowerCase()}`}>{pokemon.japanese || ''}</td>
             </tr>
             {(expandedRows[pokemon.id] && pokemon.data !== '') && (
             <tr key={i+1 + '-data'} className='pokemon-info'>
-                <td colSpan={7} dangerouslySetInnerHTML={{__html: pokemon.data}}></td>
+                <td colSpan={6} dangerouslySetInnerHTML={{__html: pokemon.data}}></td>
             </tr>
             )}
             {(i !== filteredData.length - 1) && (
                 <tr className='spacer'>
-                    <td colSpan={7}></td>
+                    <td colSpan={6}></td>
                 </tr>
             )}
           </>

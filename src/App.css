@@ -245,3 +245,33 @@ a, a:visited, a:hover {
   color: white;
   text-decoration: lightblue wavy underline !important;
 }
+
+.underline {
+  margin-bottom:2px;
+  text-decoration: black wavy underline !important;
+}
+
+[data-title]:hover:after {
+  opacity: 1;
+  transition: all 0.1s ease 0.5s;
+  visibility: visible;
+}
+[data-title]:after {
+  content: attr(data-title);
+  background-color: rgba(48, 124, 232, 1);
+  color: #FFF;
+  font-size: 1.5rem;
+  position: absolute;
+  padding: 8px;
+  bottom: -1.6em;
+  left: 3%;
+  white-space: nowrap;
+  box-shadow: 1px 1px 3px #222222;
+  opacity: 0;
+  border: 1px solid #FFF;
+  z-index: 99999;
+  visibility: hidden;
+}
+[data-title] {
+  position: relative;
+}
