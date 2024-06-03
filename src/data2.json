@@ -152,5 +152,38 @@
         "other": "鐵殼昆 / 铁壳昆 Tiěkékūn (TW/CN)",
         "japanese": "コクーン",
         "data": "<h3>Japanese</h3><p>コクーン <i>kokuun</i> from English 'cocoon'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>鐵 (tiě): iron</li><li>殼 (kè): shell</li><li>昆 (kūn): insect</li></ul><p><b>Translation</b>: 'Iron Shelled Insect'. The last two characters are also partly coincidentally phonetic, sounding like English 'cocoon'.</p>"
+    },
+    {
+        "id": "015",
+        "name": "Beedrill",
+        "chineseTraditional": "大針蜂",
+        "chineseSimplified": "大针蜂",
+        "pinyin": "Dàzhēnfēng",
+        "jyutping": "Daaihjāmfūng",
+        "other": "",
+        "japanese": "スピアー",
+        "data": "<h3>Japanese</h3><p>スピアー <i>supiaa</i> from English 'spear'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>大 (dà): big</li><li>針 (zhēn): needle</li><li>蜂 (fēng): bee</li></ul><p><b>Translation</b>: 'Big Needle Bee'. If the last two characters are swapped, you get 蜂針 (fēngzhēn) 'stinger'. Finally, a play on the word 大黄蜂 (dàhuángfēng) 'bumblebee'.</p>"
+    },
+    {
+        "id": "016",
+        "name": "Pidgey",
+        "chineseTraditional": "波波",
+        "chineseSimplified": "波波",
+        "pinyin": "Bōbō",
+        "jyutping": "Bōbō",
+        "other": "",
+        "japanese": "ポッポ",
+        "data": "<h3>Japanese</h3><p>ポッポ <i>poppo</i> from the Japanese onomatopoeia of the sound pigeons make. </p><hr><h3>Chinese</h3><p>波波 (bōbō) from a phonetic adaptation of the Japanese name.</p>"
+    },
+    {
+        "id": "017",
+        "name": "Pidgeotto",
+        "chineseTraditional": "比比鳥",
+        "chineseSimplified": "比比鸟",
+        "pinyin": "Bǐbǐniǎo",
+        "jyutping": "Beihbeihníuh",
+        "other": "比鵰 / 比雕 Bǐdiāo (TW/CN)",
+        "japanese": "ピジョン",
+        "data": "<h3>Japanese</h3><p>ピジョン <i>pijon</i> from English 'pigeon'.</p><hr><h3>Chinese</h3><p><b>Breakdown</b></p><ul><li>比比 (bǐbǐ): transliteration</li><li>鳥 (niǎo): bird</li></ul><p><b>Translation</b>: Combination of the Japanese name and Chinese for 'bird'.</p>"
     }
 ]
